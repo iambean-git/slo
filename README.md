@@ -10,42 +10,11 @@
 
 ## 👥팀원 소개
 
-<table>
-  <thead>
-    <tr>
-      <th style="width:15%" >이름</th>
-      <th style="width:15%">역할</th>
-      <th>GITHUB</th>
-      <th>주요 담당 업무</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>윤찬기</td>
-      <td>FE/팀장</td>
-      <td><a href="https://github.com/smd995">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a></td>
-      <td>프로젝트 구조 설계, 로그인/회원가입 페이지, 마이페이지, 모임 반응기 모달, 메인페이지 리팩토링</td>
-    </tr>
-    <tr>
-      <td>조은빈</td>
-      <td>FE</td>
-      <td><a href="https://github.com/iambean-git">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a></td>
-      <td>모임 상세 페이지, 찜한 모임 페이지, 모든 리뷰 페이지</td>
-    </tr>
-    <tr>
-      <td>서혜진</td>
-      <td>FE</td>
-      <td><a href="https://github.com/pluminary">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a></td>
-      <td>메인페이지</td>
-    </tr>
-  </tbody>
-</table>
+| 이름   | 역할     | GITHUB | 주요 담당 업무 |
+|--------|----------|--------|----------------|
+| 윤찬기 | FE/팀장 | [![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/smd995) | 프로젝트 구조 설계, 로그인/회원가입 페이지, 마이페이지, 모임 반응기 모달, 메인페이지 리팩토링 |
+| 조은빈 | FE       | [![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iambean-git) | 모임 상세 페이지, 찜한 모임 페이지, 모든 리뷰 페이지 |
+| 서혜진 | FE       | [![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pluminary) | 메인페이지 |
 
 ## 🔧 기술 스택
 
