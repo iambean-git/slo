@@ -13,8 +13,8 @@
 <table>
   <thead>
     <tr>
-      <th style="width:10%" >이름</th>
-      <th style="width:10%">역할</th>
+      <th style="width:15%" >이름</th>
+      <th style="width:15%">역할</th>
       <th>GITHUB</th>
       <th>주요 담당 업무</th>
     </tr>
